@@ -254,14 +254,14 @@
 `);
 	
 	const XenomorphAttack = new Email(
-	"Attaque xénomorphe", 
+	"En danger", 
 	"R.Walker", 
 	"C.Reynolds", 
 	"(18-03-2112 01:06)",
-`Il est de mon devoir de vous documenter les évènements des dernières heures.
-<Carter est mort. Cela s’est produit si rapidement que nous avons tous du mal à s’en rendre compte. Il se plaignait de migraines. Puis du sang a commencé à s’écouler de son corps. Wright a tenté de lui porter assistance, lorsque qu’une créature a jailli de son dos. Elle a gravement blessé Wright avant que je ne l’en extirpe. Elle s’est enfuie dans la jungle.
-<Cooper a retrouvé des traces de spores ayant infecté Carter. Il estime qu’elles ont pénétré son organisme et fait muter ses tissus pour permettre le développement de la créature. Les spores provenaient des poches d’œufs que nous avions découvertes dans le temple. Le risque d’infection est réel.
-<Nous attendons vos instructions dès réception de ce message.
+`C'est une urgence, capitaine. Contactez-nous au plus vite dès réception de ce message.
+<Carter est mort. C'était si rapide que nous avons encore du mal à le réaliser. Mon dieu…
+<Cooper pense que rester ici, à la surface de LV-1113, serait une erreur. Je ne l'ai jamais vu aussi apeuré… Il faut que vous lui parliez. Vite.
+<Je ne sais pas si nous aurions dû venir ici.
 `);
 	
 	
