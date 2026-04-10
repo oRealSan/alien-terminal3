@@ -240,7 +240,7 @@
 	"WYCorporation", 
 	"L.Clayton", 
 	"(05-03-2112 05:55)",
-`L’équipage vient d’émerger du cryosommeil tandis que le Cronus approche du système Draconis 26. Les scans préliminaires de LV-1113 nous montrent qu’il s’agit d’une planète luxuriante, recouverte de jungles et peuplée de nombreuses formes de vie. L’équipe scientifique se prépare à déployer le module d’exploration. Walker a demandé à l’équipe de sécurité de les accompagner. Nous espérons trouver l’agent chimique sur place, mais il est impossible de savoir ce qui peut rôder à la surface de la planète.
+`L’équipage vient d’émerger de l'hypersommeil tandis que le Cronus approche du système Draconis 26. Les scans préliminaires de LV-1113 nous montrent qu’il s’agit d’une planète luxuriante, recouverte de jungles et peuplée de nombreuses formes de vie. L’équipe scientifique se prépare à déployer le module d’exploration. Walker a demandé à l’équipe de sécurité de les accompagner. Nous espérons trouver l’agent chimique sur place, mais il est impossible de savoir ce qui peut rôder à la surface de la planète.
 `);
 	
 		const OriginOfChemical = new Email(
@@ -359,7 +359,7 @@
 	"(21-03-2112 14:08)",
 `Nous avons perdu le contrôle du Cronus. Tous les membres d’équipage encore en vie doivent se rendre immédiatement aux chambres cryogéniques pour le voyage retour vers la Terre. J’ai programmé le poste de pilotage pour lancer un confinement total dans 20 minutes.
 <Une fois ces portes verrouillées, nous serons en sécurité. Les créatures ne pourront pas les ouvrir.
-<Ava continuera d’assurer le fonctionnement du vaisseau. Les xénomorphes semblent l’ignorer. Avec un peu de chance, nous pourrons nous en sortir.
+<Ava continuera d’assurer le fonctionnement du vaisseau. Avec un peu de chance, nous pourrons nous en sortir.
 <Je n’ai pas pris cette décision à la légère. Je sais que Walker aurait peut-être agi différemment. Mais les choses sont ainsi. Je m’attends à ce que vous obéissiez.
 `);
 
