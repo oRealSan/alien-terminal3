@@ -240,7 +240,9 @@
 	"WYCorporation", 
 	"L.Clayton", 
 	"(05-03-2112 05:55)",
-`L’équipage vient d’émerger de l'hypersommeil tandis que le Cronus approche du système Draconis 26. Les scans préliminaires de LV-1113 nous montrent qu’il s’agit d’une planète luxuriante, recouverte de jungles et peuplée de nombreuses formes de vie. L’équipe scientifique se prépare à déployer le module d’exploration. Walker a demandé à l’équipe de sécurité de les accompagner. Nous espérons trouver l’agent chimique sur place, mais il est impossible de savoir ce qui peut rôder à la surface de la planète.
+`L’équipage vient d’émerger de l'hypersommeil. Nous approchons du système Draconis 26. Les scans préliminaires de LV-1113 nous montrent qu’il s’agit d’une planète luxuriante, recouverte de jungles et peuplée de nombreuses formes de vie. L’équipe scientifique se prépare à déployer le module d’exploration. Walker et l’équipe de sécurité les accompagnent.
+<Cooper est confiant. Il pense que nous mettrons rapidement la main sur l'agent chimique AO-3949X.91 15. Je garde un œil sur lui. J'espère que son enthousiasme ne le mènera pas trop loin dans ses recherches. S'il découvre que la raison existentielle de l'agent est purement létale, il pourrait soupçonner la compagnie d'intentions malfaisantes et saboter sa propre expédition.
+<Espérons que les choses se déroulent dans le calme.
 `);
 	
 		const OriginOfChemical = new Email(
